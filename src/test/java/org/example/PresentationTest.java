@@ -71,7 +71,7 @@ public class PresentationTest {
         String response = """
                 100|  x                                                                    \s
                    |  x  x  x  x                                                           \s
-                   |  x  x  x  x  x  x                                                     \s
+                   |  x  x  x  x  x                                                        \s
                    |  x  x  x  x  x  x  x  x                                               \s
                    |  x  x  x  x  x  x  x  x  x                                            \s
                 -12|  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x
